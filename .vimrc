@@ -154,4 +154,4 @@ if has('statusline')
     set statusline+=%=%-14.(%l\/%L,%c%V%)\ %p%%  " Right aligned file nav info
 endif
 map <C-F12> :!ctags -R --c++-kinds=+p --fields=+iaS --extra=+q .<CR>
-"colorscheme solarized
+" colorscheme solarized
