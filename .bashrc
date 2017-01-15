@@ -115,6 +115,3 @@ fi
 
 PS1='${debian_chroot:+($debian_chroot)}\[\033[32;1m\]\u\[\033[36;1m\]@\h: \[\033[37;1m\]\w\[\033[31;1m\]\$\[\033[34;1m\] '
 
-export PATH=$PATH:/home/shsf-hzw/D/NS2/ns-allinone-2.35/bin:/home/shsf-hzw/D/NS2/ns-allinone-2.35/tcl8.5.10/unix:/home/shsf-hzw/D/NS2/ns-allinone-2.35/tk8.5.10/unix
-export LD_LIBRARY_PATH=/home/shsf-hzw/D/NS2/ns-allinone-2.35/otcl-1.14:/home/shsf-hzw/D/NS2/ns-allinone-2.35/lib
-export TCL_LIBRARY=/home/shsf-hzw/D/NS2/ns-allinone-2.35/tcl8.5.10/library
