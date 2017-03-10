@@ -4,6 +4,8 @@
 
 ![](https://cloud.githubusercontent.com/assets/5633774/8563546/f99f3706-24f5-11e5-9451-5e33d7cc2652.png)
 
+explain:
+
 - `.pip` : the python-pip source -> douban
 - `.vim` : vim bundle and plugin
 - `.bashrc` : the bash shell config
@@ -24,7 +26,7 @@ Example : [oh-my-zsh](http://ohmyz.sh/) -> [theme-agnoster](https://github.com/a
 
 ![](https://cloud.githubusercontent.com/assets/2618447/6316862/70f58fb6-ba03-11e4-82c9-c083bf9a6574.png)
 
-To see how many shells are on you linux:
+To see how many shells are on your linux:
 
 ```
 ➜ ~/my-vim git:(master) ➤ cat /etc/shells
